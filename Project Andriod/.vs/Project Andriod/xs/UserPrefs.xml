@@ -11,9 +11,9 @@
       <File FileName="Assets/Script/ScoreManager.cs" />
       <File FileName="Assets/Script/CountdownTimer.cs" />
       <File FileName="Assets/Script/EnemyHit.cs" />
-      <File FileName="Assets/Script/EnemyBullet.cs" Line="16" Column="1" />
-      <File FileName="Assets/Script/Coin.cs" Line="18" Column="10" />
-      <File FileName="Assets/Script/Camcon.cs" Line="27" Column="1" />
+      <File FileName="Assets/Script/EnemyBullet.cs" />
+      <File FileName="Assets/Script/Coin.cs" />
+      <File FileName="Assets/Script/Camcon.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
