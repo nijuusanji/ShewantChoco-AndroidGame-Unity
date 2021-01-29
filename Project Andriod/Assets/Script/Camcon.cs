@@ -16,12 +16,6 @@ public class Camcon : MonoBehaviour
     // Use this for initialization
     public Coroutine my_co;
 
-    void Start()
-    {
-
-    }
-
-
     void Update()
     {
         Vector3 Targetpos = new Vector3(Target.transform.position.x, Target.transform.position.y + PosY, -100);

@@ -1,25 +1,27 @@
 ﻿<Properties StartupConfiguration="{D3244D70-BBD8-F692-8CFF-0229C7067188}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/EnemyBullet.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Playercon.cs">
     <Files>
       <File FileName="Assets/Script/changemenuscene.cs" Line="12" Column="32" />
-      <File FileName="Assets/Script/Playercon.cs" Line="11" Column="21" />
-      <File FileName="Assets/Script/Lockdoor.cs" Line="1" Column="1" />
-      <File FileName="Assets/Script/Teleport.cs" Line="5" Column="38" />
-      <File FileName="Assets/Script/ShowUI.cs" Line="43" Column="39" />
-      <File FileName="Assets/Script/EnemyBoss.cs" Line="31" Column="1" />
-      <File FileName="Assets/Script/Bullet.cs" Line="42" Column="17" />
-      <File FileName="Assets/Script/ScoreManager.cs" Line="10" Column="41" />
-      <File FileName="Assets/Script/CountdownTimer.cs" Line="9" Column="44" />
-      <File FileName="Assets/Script/EnemyHit.cs" Line="10" Column="1" />
+      <File FileName="Assets/Script/Playercon.cs" Line="4" Column="46" />
+      <File FileName="Assets/Script/Lockdoor.cs" />
+      <File FileName="Assets/Script/Teleport.cs" />
+      <File FileName="Assets/Script/ShowUI.cs" />
+      <File FileName="Assets/Script/EnemyBoss.cs" />
+      <File FileName="Assets/Script/Bullet.cs" />
+      <File FileName="Assets/Script/ScoreManager.cs" />
+      <File FileName="Assets/Script/CountdownTimer.cs" />
+      <File FileName="Assets/Script/EnemyHit.cs" />
       <File FileName="Assets/Script/EnemyBullet.cs" Line="16" Column="1" />
+      <File FileName="Assets/Script/Coin.cs" Line="18" Column="10" />
+      <File FileName="Assets/Script/Camcon.cs" Line="27" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c9a762bf-8c91-4626-b793-f731c1e5b54a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0b99aa9-9023-4da4-bad9-08df421245e9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/Nijuusanji/Unity/Andriod/Project Andriod/Assets/Script/NewBehaviourScript.cs" relfile="Assets/Script/NewBehaviourScript.cs" line="1" column="1" />
+      <Breakpoint file="/Users/Nijuusanji/Documents/GitHub/ShewantChocoAndroidGame/Project Andriod/Assets/Script/NewBehaviourScript.cs" relfile="Assets/Script/NewBehaviourScript.cs" line="1" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
